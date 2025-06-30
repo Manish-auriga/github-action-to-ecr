@@ -90,7 +90,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: manish/first   
+  ECR_REPOSITORY: manish 
 
 jobs:
   deploy:
